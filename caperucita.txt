@@ -3,3 +3,4 @@ prueba 2 principio  de la historia
 prueba 2 suma de imagen
 prueba 4 conexion con git hub
 prueba 5 repositorio publico
+prueba 6 repositorio desde git hub
